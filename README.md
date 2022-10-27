@@ -12,8 +12,9 @@ v_o = c \sqrt{1 - \frac{1}{\left(1 + \frac{g}{r}\right)^2}} \approx 526.6\ \text
 $$
 </details>
  
-  
-I work primarily with React, **Node.js** and most often **Express** coupled with **MongoDB**. While researching this paper I worked almost exclusively with **Python**, and I've written a bit of **Swift** in the past.  
+## Now the software stuff:
+![](https://img.shields.io/static/v1?label=&message=React&color=blue) ![](https://img.shields.io/static/v1?label=&message=Node.js&color=blue) ![](https://img.shields.io/static/v1?label=&message=MongoDB&color=blue) ![](https://img.shields.io/static/v1?label=&message=Python&color=blue) ![](https://img.shields.io/static/v1?label=&message=Express&color=blue) ![](https://img.shields.io/static/v1?label=&message=Swift&color=blue)  
+I work primarily with **React**, **Node.js** and most often **Express** coupled with **MongoDB**. While researching this paper I worked almost exclusively with **Python**, and I've written a bit of **Swift** in the past.  
   
 - I love to be challenged. I'm definitely guilty of becoming bored easily when I'm not challenged to learn new things, but when I'm working on a challenging task I can focus for days on end.  
 
