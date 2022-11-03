@@ -14,7 +14,7 @@ $$
  
 ## Now the software stuff:
 ![](https://img.shields.io/static/v1?label=&message=React&color=blue) ![](https://img.shields.io/static/v1?label=&message=Node.js&color=blue) ![](https://img.shields.io/static/v1?label=&message=MongoDB&color=blue) ![](https://img.shields.io/static/v1?label=&message=Python&color=blue) ![](https://img.shields.io/static/v1?label=&message=Express&color=blue) ![](https://img.shields.io/static/v1?label=&message=Swift&color=blue)  
-I work primarily with **React**, **Node.js** and most often **Express** coupled with **MongoDB**. While researching this paper I worked almost exclusively with **Python**, and I've written a bit of **Swift** in the past.  
+I work primarily with **React** and **Node.js**, most often using **Express** coupled with **MongoDB**. While researching this paper I worked almost exclusively with **Python**, and I've written a bit of **Swift** in the past.  
   
 - I love to be challenged. I'm definitely guilty of becoming bored at times when I'm not challenged to learn new things, but when I'm working on a challenging task or something I truly believe in I sometimes find it difficult to put my work down at the end of the day.
 
@@ -27,13 +27,11 @@ I work primarily with **React**, **Node.js** and most often **Express** coupled 
      
 
 ### Caveat
-I'd feel dishonest if I didn't mention this upfront: As of writing this on 10/26/2022 I submitted this paper for publication yesterday, 10/25/2022. I gave up a really nice 2 year old apartment with a brand new kitchen, all brand new appliances, a balcony and a lake view to live in my Chevy Sonic with my puppy so I could focus on writing this paper without distraction. I still have access to a solid internet connection all day, but in the short term working in an office isn't really possible, as this princess has to go everywhere with me.
+I'd feel dishonest if I didn't mention this upfront: As of writing this on 10/26/2022 I submitted this paper for publication yesterday, 10/25/2022. I gave up a really nice 2 year old apartment with a brand new kitchen, all brand new appliances, a balcony and a lake view to live in my Chevy Sonic with my puppy so I could focus on writing this paper without distraction. I still have access to everything I need to be productive as a developer, but in the short term working in an office isn't really possible, since this princess has to go everywhere with me.
 
 <img src="./Layla.jpg" width=300 align=left style="border-radius: 20px; margin: auto 30px auto auto">
 
-<!-- ![Layla](./Layla.jpg) -->
-
-
 
 [^1]: The Greek word for the type of love someone has for a stranger. The word that gave Philadelphia the moniker _'the city of brotherly love'_.
-[^2]: This value actually corresponds with values obtained through direct measurement of supernovae luminosity
+
+[^2]: This value actually corresponds quite closely with values obtained through the direct measurement of supernovae luminosity and the corresponding redshifts.
