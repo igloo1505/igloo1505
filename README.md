@@ -1,7 +1,7 @@
 
 👋 Hi everybody!  
 My name's Andrew. Igloo comes from my grandfather's last name, Iglinski. I recently took a year away from my freelance work to focus on writing a paper related to my education, physics. That was recently accepted to be published in the _Journal of Mathematical Physics_, and I'm excited to get back to work in the field that provided me the free time to pursue such a lofty goal. No matter how impactful this paper turns out to be, I would have never been able to complete it if I hadn't already had experience writing code.  
-To sum up the paper, I believe I can demonstrate that Earth's peculiar (or total) velocity relative to the cosmic rest reference frame can be found through Einstein's work. Through some rather adventurous geometry and some pretty elementary math, the paper proposes that our PV can be found through this equation:  
+To sum up the paper, I believe I can demonstrate that Earth's peculiar (or total) velocity relative to the cosmic rest reference frame can be found through Einstein's work. Through some rather adventurous geometry and some pretty elementary math, the paper proposes that our PV can be found through this equation. Interestingly, this seems to fit very cohesively with data found through direct observation of both Supernovae luminosity curves and the cosmic microwave background radiation.
 
 $$
 \begin{equation}
