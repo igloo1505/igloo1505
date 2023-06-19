@@ -11,6 +11,6 @@ $$
 
 As for the technologies that I'm most familiar with, I've worked with React and Node for around 8 years, Python for the last few years and had little spurts of Lua and Swift mixed in there as well. As my last little life journey might indicate, I can be a bit ADHD at times and that leads me to constantly search for new challenges and things to learn. When it comes to tech, if a job prospect doesn't take me down another path Rust is likely next up on my list, with Kotlin following shortly.  
 
-Now that I've checked this paper off of my bucket list, if anyone is looking for a React, Node, or Python developer please reach out. I need to buy dog food for this princess...
+Now that I've checked this paper off of my bucket list, if anyone is looking for a React, Node, or Python developer please reach out. I need to buy treats for this princess...
 
 <img src="./Layla.jpg" width=300 align=left style="border-radius: 20px; margin: auto 30px auto auto">
