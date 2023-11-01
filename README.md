@@ -31,7 +31,7 @@ $$
 \frac{c \left(\frac{g}{R_e}\right)}{\left(\frac{2 \pi R_p}{c S_d}\right)} = 1.0028
 $$
 
-And if ignoring the centripital force effects on the equatorial radius, giving an error of $0.047\%$:
+And if ignoring the centripital force effects on the equatorial radius, giving an error of $0.047%$:
 
 $$
 \frac{c \left(\frac{g}{R_e}\right)}{\left(\frac{2 \pi R_e}{c S_d}\right)} = 1.00047
