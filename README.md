@@ -14,15 +14,7 @@ $$
 What also pops out of this geometry I proposed is the fact that this equation, where $R_p$ is the Earth's polar radius, $R_e$ is Earth's equatorial radius, $S_d$ is Earth's rotation period in seconds in respect to the Sun, and $g$ is Earth's gravitational acceleration at sea level, is not a coincidence. Current models predict no relationship between the equations $f^1$ and $f^2$ or $f^3$, but the geometry I proposed gives a direct derviation.
 
 $$
-f^1 = c \left(\frac{g}{R_e}\right)
-$$
-
-$$
-f^2 = \left(\frac{2 \pi R_p}{c S_d}\right)
-$$
-
-$$
-f^3 = \left(\frac{2 \pi R_e}{c S_d}\right)
+f^1 = c \left(\frac{g}{R_e}\right) \qquad f^2 = \frac{2 \pi R_p}{c S_d} \qquad f^3 = \frac{2 \pi R_e}{c S_d}
 $$
 
 It turns out that $f^1 \approx f^2$ and an even better approximation, when ignoring the effects of centripital force on the radius, $f^1 \approx f^3$.
