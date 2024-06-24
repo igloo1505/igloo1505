@@ -25,9 +25,9 @@ While the first of two papers was submitted for peer review 2 days ago, I am cur
 
 Throughout the time that I was working on my own research, I became increasingly frustrated with existing note taking options. Some offered the ability to run calculations and generate plots directly in your notes but fell far short in regards to searching, linking, and the overall academic workflow. Others offered great tagging and linking features, but failed to allow the customizability that I needed, and _all_ of the existing options failed to deliver the ability to completely contain my notes which included task lists, calendars, snippets, equations, and of course, regular [mdx](https://mdxjs.com/).
 
-About half way through my journey I gave up with existing options and started to build my own app, originally for my personal use. As this app continued to grow however I realized that this app could be beneficial to a user base that extends far beyond my own personal use case.
+About half way through my journey I gave up with existing options and started to build my own app, originally for my personal use. However, as this app continued to grow and expand to meet my own needs, I realized that this app could be beneficial to a user base that extends far beyond my own personal use case.
 
-I've spent the past couple months reworking this application into a slot style, plugin based architecture and am now getting ready to release it to the public. While I'd of course love any support that user's or potential partners can provide, I'm still homeless after all, this app is now and will always be free for user's running it on their own machine.
+I've spent the past couple months reworking this application into a slot style, plugin based architecture and am now getting ready to release it to the public. While I'd of course love any support that user's or potential partners can provide, I am _still_ homeless after all, this app is now and will always be free for user's running it on their own machine.
 
 ### Progress and Release Date of ULLD
 
