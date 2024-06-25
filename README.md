@@ -1,11 +1,12 @@
+<img src="./woah.JPG" width=300 align=right style="border-radius: 20px; margin: auto 30px auto auto; position: relative"/>
 👋 Hi everybody!  
 My name's Andrew. Igloo comes from my grandfather's last name, Iglinski. I'm a kinda-former engineer with a background in, and a passion for, physics. One evening a little over two years ago, I was reading over some of Einstein's work for probably the 15th time, when something occurred to me. He made an assumption that only made sense in the days before our observations of cosmic inflation.
-
-<img src="./woah.JPG" width=300 align=left style="border-radius: 20px; margin: auto 30px auto auto; position: relative"/>
 
 If we discounted this assumption, we can produce every single experimental validation of both the specialized and generalized theories of relativity without the need for time dilation, therefore preserving synchronicity between reference frames.
 
 I quickly began to accept less work and focus more on this model of relativity than paid software work, and in the process I became homeless. Over the past 2 years that I've been homeless, I continued to focus on this geometry, and was able to derive several physical quantities through this theory alone that align nearly perfectly with direct observation in a manner that is entirely unaccounted for by current models of relativity.
+
+<img src="./pvProbability.png" width=300 align=left style="margin: auto 30px auto auto; position: relative"/>
 
 First, I was able to produce a peculiar velocity of:
 
@@ -14,8 +15,6 @@ v_o = c \sqrt{1 - \frac{1}{(\frac{1}{R}\int_0^{R} 2 G \frac{M}{R^{3}})^{2}}} = 5
 $$
 
 Not only was this value produced through **_local_** gravitational observations as they apply to this geometry, this value fits almost perfectly on top of probability curves found through direct observation:[^1]
-
-<img src="./pvProbability.png" width=300 align=left style="margin: auto 30px auto auto; position: relative"/>
 
 Second, I was able to produce a relative spatial dilation of $\frac{ds}{dx} = 1.61800103 = \Phi + 0.002\%$.
 
