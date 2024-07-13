@@ -19,7 +19,7 @@ Not only was this value produced through **_local_** gravitational observations 
 
 Second, I was able to produce a relative spatial dilation of $\frac{ds}{dx} = 1.61800103 = \Phi + 0.002\\%$.
 
-While the first of two papers was submitted for peer review 2 days ago, I am currently in the process of finalizing my second paper relating this model to electromagnetism with possibly even more observationally sound results.
+While the first of two papers is pretty much finished apart from some small revisions and set to be submitted for publication before the end of summer 2024, I am currently in the process of finalizing my second paper relating this model to electromagnetism with possibly even more observationally sound results.
 
 ## Uh Little Less Dum
 
