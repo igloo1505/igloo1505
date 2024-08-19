@@ -8,7 +8,7 @@ If we discounted this assumption, we can produce every single experimental valid
 
 <img src="./pvProbability.png" width=300 align=left style="margin: auto 30px auto auto; position: relative"/>
 
-I quickly began to accept less work and focus more on this model of relativity than paid software work, and in the process I became homeless. Over the past 2 $\\frac{1}{2}$ years that I've been homeless, I continued to focus on this geometry, and was able to derive several physical quantities through this theory alone that align nearly perfectly with direct observation in a manner that is entirely unaccounted for by current models of relativity.
+I quickly began to accept less work and focus more on this model of relativity than paid software work, and in the process I became homeless. Over the past 2+ years that I've been homeless, I continued to focus on this geometry, and was able to derive several physical quantities through this theory alone that align nearly perfectly with direct observation in a manner that is entirely unaccounted for by current models of relativity.
 
 First, I was able to produce a local peculiar velocity of:
 
