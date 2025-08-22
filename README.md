@@ -2,9 +2,9 @@
 
 👋 Hi everybody!
 
-My name's Andrew. Igloo comes from my grandfather's last name, Iglinski. I'm a _kinda_-former engineer with a deep passion for physics. One evening a little more than three years ago, I was reading over some of Einstein's work for probably the 15th time, when something occurred to me. He made an assumption that only made sense in the days before our observations that produced the concept of cosmic inflation.
+My name's Andrew. Igloo comes from my grandfather's last name, Iglinski. I'm a _kinda_-former engineer with a deep passion for physics. One evening a little more than three years ago, I was reading over some of Einstein's work for probably the 15th time when something occurred to me: Einstein made an assumption that only made sense in the days before our observations that produced the concept of cosmic inflation.
 
-If we discounted this assumption, we can produce every single experimental validation of both the specialized and generalized theories of relativity without the need for time dilation, therefore preserving synchronicity between reference frames.
+Einstein was insistent on a static Universe until well into his career, including the period when he wrote the papers that gave us special relativity. If we discounted this assumption, we can produce every single experimental validation of both the specialized and generalized theories of relativity without the need for time dilation, therefore preserving synchronicity between reference frames.
 
 <img src="./pvProbability.png" width=300 align=left style="margin: auto 30px auto auto; position: relative"/>
 
