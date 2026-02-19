@@ -1,5 +1,7 @@
 <img src="./woah.JPG" width=300 align=right style="border-radius: 20px; margin: auto 30px auto auto; position: relative"/>
 
+> This account is abandoned. While I was homeless, as described below, I had to give up my phone number.
+
 👋 Hi everybody!
 
 My name's Andrew. Igloo comes from my grandfather's last name, Iglinski. I'm a _kinda_-former engineer with a deep passion for physics. One evening a little more than three years ago, I was reading over some of Einstein's work for probably the 15th time when something occurred to me: Einstein made an assumption that only made sense in the days before our observations that produced the concept of cosmic inflation.
@@ -8,7 +10,7 @@ Einstein was insistent on a static Universe until well into his career, includin
 
 <img src="./pvProbability.png" width=300 align=left style="margin: auto 30px auto auto; position: relative"/>
 
-I quickly began to accept less work and focus more on this model of relativity than paid software work, and in the process I became homeless. Over the past 3+ years that I've been homeless, I continued to focus on this geometry, and was able to derive several physical quantities through this theory alone that align nearly perfectly with direct observation in a manner that is entirely unaccounted for by current models of relativity.
+While I continued to focus on this geometry, I was able to derive several physical quantities through this theory alone that align nearly perfectly with direct observation in a manner that is entirely unaccounted for by current models of relativity.
 
 First, I was able to produce a local peculiar velocity of:
 
@@ -28,7 +30,7 @@ And finally, I was able to produce a relative spatial dilation of $\frac{ds}{dx}
 
 ## Fluster
 
-Over the course of this pursuit I became increasingly frustrtated with existing note taking options. Some are easy to use, but lack advanced features while other options like notebooks offered a ton of flexibility but lacked the ability to link notes together in a way that I needed. After about a year of struggling with existing note taking applictations I gave in and built my own app, originally for my own personal use.
+Over the course of this pursuit I became increasingly frustrated with existing note taking options. Some are easy to use, but lack advanced features while other options like notebooks offered a ton of flexibility but lacked the ability to link notes together in a way that I needed. After about a year of struggling with existing note taking applications I gave in and built my own app, originally for my own personal use.
 
 As my pursuit continued the features of my personal note taking app grew and grew to the point that I decided to release it as a free & open source framework. I've since rewritten the core functionality of Fluster in Rust for unbeatable performance and have migrated the original browser based application to a completely native & cross platform app, with Android and iOS apps planned for the not-to-distant future.
 
