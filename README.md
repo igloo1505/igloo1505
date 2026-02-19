@@ -1,6 +1,6 @@
 <img src="./woah.JPG" width=300 align=right style="border-radius: 20px; margin: auto 30px auto auto; position: relative"/>
 
-> This account is abandoned. While I was homeless, as described below, I had to give up my phone number.
+> This account is abandoned. Got locked out of some of my accounts, and just gave up on this one.
 
 👋 Hi everybody!
 
